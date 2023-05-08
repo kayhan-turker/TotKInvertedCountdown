@@ -1,5 +1,5 @@
 
-var skipTime = 0; //3.42
+var skipTime = 0;
 var moon_opacity = 0.12;
 
 
